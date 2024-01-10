@@ -1,5 +1,5 @@
-#Golang Command line tool for accessing the [Free Cocktail API](https://www.thecocktaildb.com/api.php)
-##Users enter commands for a random search of a cocktail recipe or the search of a specific drink.
+# Golang Command line tool for accessing the [Free Cocktail API](https://www.thecocktaildb.com/api.php)
+## Users enter commands for a random search of a cocktail recipe or the search of a specific drink.
 
 ---
 1. Search Command
