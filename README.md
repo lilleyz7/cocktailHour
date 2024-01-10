@@ -10,8 +10,8 @@
   - Simply enter the command "random"
 
 3. Help Command
-   - Enter the term "help"
-   - Response will be the other available commands
+  - Enter the term "help"
+  - Response will be the other available commands
 
 4. Exit
-   -Enter "exit" to quit the program
+   - Enter "exit" to quit the program
